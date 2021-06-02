@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2021-06-01T16:45:09.3824266Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2021-06-01T17:13:07.2260086Z"
+    }
+  },
+  "parameters": {
+    "appInsights1.subscriptionId": {
+      "Name": "appInsights1.subscriptionId",
+      "Type": "subscription",
+      "Value": "907d22fb-0288-48ec-8c1a-177933057662"
+    },
+    "appInsights1.resourceGroupName": {
+      "Name": "appInsights1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "rgCocktailssApi"
+    }
+  }
+}

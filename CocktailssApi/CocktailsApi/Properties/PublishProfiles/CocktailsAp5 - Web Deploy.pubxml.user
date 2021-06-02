@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Этот файл используется процессом публикации или упаковки вашего веб-проекта. Можно настроить поведение этого процесса,
+изменив этот файл MSBuild. Подробности см. на странице https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+XU1YkHVn0eeFVv1/D90tQAAAAACAAAAAAAQZgAAAAEAACAAAACP0c53TbWtgHybVQpiatKwi0GD+TZq6mcB7tibaSD1vwAAAAAOgAAAAAIAACAAAADQOoUBY3yDf2nCQmu9hQm8uiUUERG/7ejeqdo63hJTkYAAAAAyXHfxA7c2lrFgBlUZLthUoNgMXyVEbNc6HM7TjFrTXHY2pyXj652/pZ98UgdOiP5DwjYOWWaNgGM2bKXRF5vOpaET6shehfUJZMBxY2+3DPPjgnMSccrHqxZzJELnUZWrXFMfroXsJAkI84kMxS1JClp6Uyu5VttUbx4UbCkWNEAAAAAAlcAdEi7LIrPbqG1N7dU20CYyvEgFO/ijkQxBzlZ1Yw3+BYXpjPxa+n+mKWvWY0F2qRkAdZ9h973A8BfkcYIL</EncryptedPassword>
+    <History>True|2021-06-01T18:05:25.4049086Z;True|2021-06-01T21:04:31.3217855+03:00;True|2021-06-01T20:26:44.7707216+03:00;</History>
+  </PropertyGroup>
+</Project>
